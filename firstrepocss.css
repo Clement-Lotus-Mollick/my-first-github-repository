@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 3px;
+    margin-bottom: 0px;
+}
+p{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+nav{
+    background-color: black;
+    padding: 4px;
+    border: 2px solid grey;
+}
+a{
+    color: white;
+    padding: 16px;
+    /* margin-top: 0px; */
+}
